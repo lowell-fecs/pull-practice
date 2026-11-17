@@ -18,7 +18,7 @@ THEME = {
     "background": "#1E222A",                  # Window & chart background (Hex)
     "wave":       rgb_int(97, 175, 239),      # Sine wave line color (0-255 RGB)
     "fill":       rgb_int(97, 175, 239, 60),  # Shaded area under curve (RGB + Alpha)
-    "text":       "white",                    # Title, labels, and grid (Named color)
+    "text":       "red",                    # Title, labels, and grid (Named color)
 }
 # =====================================================================
 
